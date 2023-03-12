@@ -4,9 +4,9 @@
 
 int main()
 {
-	// f(x) = -sin(x) + cos(x) [0; 4]
+	// f(x) = -sin(x) + cos(x) [0; pi/4]
 
-	double a = -3.1415, b = 0.78539816339;
+	double a = 0, b = 0.78539816339;
 	int parts = 8; // h = (b - a) / parts
 
 	std::vector<double> values;
