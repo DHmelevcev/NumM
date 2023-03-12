@@ -1,1 +1,2 @@
+# NumM
 Numerical methods course
